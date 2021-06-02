@@ -14,7 +14,7 @@ The development of synthetic aperture radar interferometry, or InSAR, in the las
 ###### SAR Signal and Image Processing
 The original data acquired by SAR is called raw data, which is much like pure noise if you view it with an image application. Through signal processing techniques, or focusing, an image can be formed. Further processing, e.g. denoising, is thus performed in the image domain for numerous purposes. Previously one of our group’s focuses is on the processing of data acquired in advanced modes such as spotlight, ScanSAR, TOPS and SweepSAR, which requires more sophisticated signal processing algorithms (e.g. [Liang et al., 2017, _IEEE TGRS_](https://ieeexplore.ieee.org/document/8038865)).
 
-{% include figure.html image="../assets/images/research/pta+sar_image.jpg" caption="Left: point target analysis in focusing. Right: a focused SAR image" position="center" width="800" %}
+{% include figure.html image="../assets/images/research/pta+sar_image.jpg" caption="Left: point target analysis in focusing. Right: a focused SAR image." position="center" width="800" %}
 
 
 ###### InSAR Algorithms and Software Development, and High Performance Computation
@@ -30,7 +30,7 @@ InSAR is comprised of a number of processing steps, and still has challenges or 
 
 While the microwave is travelling in the atmosphere, its phase is mostly affected by two layers of the atmosphere including troposphere and ionosphere. The troposphere is the lowest layer of Earth’s atmosphere. The water vapor in troposphere causes phase delay to microwave signals. The ionosphere can extend from 50 km to 1000 km above the Earth’s surface. Its formation is mainly because the neutral atoms or molecules in the atmosphere eject free electrons after absorbing solar radiation. The free electrons cause a phase shift to the traversing microwave signal. Previously our group has extensively studied the effects of ionosphere and developed a number of techniques to correct its effects.
 
-{% include figure.html image="../assets/images/research/ionosphere+correction.jpg" caption="Left: Ionosphere and satellite synthetic aperture radar. Right: InSAR ionosphere correction result (copyright: Liang Group)" position="center" width="1100" %}
+{% include figure.html image="../assets/images/research/ionosphere+correction.jpg" caption="Left: Ionosphere and satellite synthetic aperture radar. Right: InSAR ionosphere correction result (copyright: Liang Group)." position="center" width="1100" %}
 
 The measured deformation by InSAR contains not only deformation of interest, but also other physical components including the currently known ocean tide and solid earth tide. They mostly introduce very long wavelength signals in the measurement and did not raise wide concern before. However, they are becoming increasingly important as InSAR is moving forward from small-scale deformation measurement to large-scale or even continental-scale measurement thanks to the advanced imaging capabilities of present and future SAR missions.
 

@@ -25,6 +25,6 @@ alosStack is an application for processing an ALOS-2 InSAR stack. The applicatio
 ###### Sentinel-1 TOPS mode ionospheric correction software
 The software performs ionospheric correction for the C-band Sentinel-1 TOPS mode InSAR data. The software is now part of the topsApp in [ISCE](https://github.com/isce-framework/isce2) software. We will soon get it into topsStack for the ionospheric correction of TOPS stack. The detailed algorithms implemented are discribed in [Liang et al., 2019, _IEEE TGRS_](https://ieeexplore.ieee.org/document/8706258). While ionospheric effects at C-band were mostly not considered as a big issue or even misinterpreted as orbit fringes before, recent studies demonstrated that they can be very significant in some cases ([Liang et al., 2019, _IEEE TGRS_](https://ieeexplore.ieee.org/document/8706258)).
 
-{% include figure.html image="../assets/images/software/all_chile_a149.jpg" caption="Ionospheric correction of a stack of Sentinel-1 TOPS interferograms in northern Chile (Track A149)" position="center" width="1200" %}
+{% include figure.html image="../assets/images/software/all_chile_a149.jpg" caption="Ionospheric correction of a stack of Sentinel-1 TOPS interferograms in northern Chile (Track A149)." position="center" width="1200" %}
 
  
