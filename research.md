@@ -34,7 +34,7 @@ While the microwave is travelling in the atmosphere, its phase is mostly affecte
 
 The measured deformation by InSAR contains not only deformation of interest, but also other physical components including the currently known ocean tide and solid earth tide. They mostly introduce very long wavelength signals in the measurement and did not raise wide concern before. However, they are becoming increasingly important as InSAR is moving forward from small-scale deformation measurement to large-scale or even continental-scale measurement thanks to the advanced imaging capabilities of present and future SAR missions.
 
-InSAR processing also introduces errors in the final results. Our group works on the correction of all sources of errors to improve the accuracy and precision of InSAR (e.g. [Liang and Fielding, 2017, _IEEE TGRS_](https://ieeexplore.ieee.org/document/7852444), [Liang et al., 2019, _IEEE TGRS_](https://ieeexplore.ieee.org/document/8706258)).
+InSAR processing also introduces errors in the final results. Our group works on the correction of all sources of errors to improve the accuracy and precision of InSAR measurements (e.g. [Liang and Fielding, 2017, _IEEE TGRS_](https://ieeexplore.ieee.org/document/7852444), [Liang et al., 2019, _IEEE TGRS_](https://ieeexplore.ieee.org/document/8706258)).
 
 
 ###### InSAR Applications in Geophysics and other Fields
