@@ -9,7 +9,7 @@ Below is publicly available software developed by us.
 
 
 ###### alos2App
-alos2App is an application that can process multi-mode SAR data acquired by the JAXA ALOS-2 satellite. The application is now part of the [ISCE](https://github.com/isce-framework/isce2) software. Future plans include the support for the upcoming ALOS-4 satellite. Major algorithms are discribed in [Liang and Fielding, 2017a, _IEEE TGRS_](https://ieeexplore.ieee.org/document/7852444) and [Liang and Fielding, 2017b, _IEEE TGRS_](https://ieeexplore.ieee.org/document/7857102). Here is an example of ScanSAR-stripmap interfeorgram processed by alos2App and featured in the journal [_Science_](https://science.sciencemag.org/content/371/6532/876/tab-pdf).
+alos2App is an application that can process multi-mode SAR data acquired by the JAXA ALOS-2 satellite. The application is now part of the JPL/Caltech/Stanford [ISCE](https://github.com/isce-framework/isce2) software. Future plans include the support for the upcoming ALOS-4 satellite. Major algorithms are discribed in [Liang and Fielding, 2017a, _IEEE TGRS_](https://ieeexplore.ieee.org/document/7852444) and [Liang and Fielding, 2017b, _IEEE TGRS_](https://ieeexplore.ieee.org/document/7857102). Here is an example of ScanSAR-stripmap interfeorgram processed by alos2App and featured in the journal [_Science_](https://science.sciencemag.org/content/371/6532/876/tab-pdf).
 
 
 ###### alos2burstApp
