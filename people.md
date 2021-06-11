@@ -11,4 +11,4 @@ Cunren Liang mainly works on Synthetic Aperture Radar (SAR) signal processing, i
 
 
 ### Students and Postdocs
-We are multidisciplinary and welcome students of different backgrounds such as electrical engineering, computer science, remote sensing, geophysics, geographic information system, geomatics etc. If you are interested in joining our group as a master’s or PhD student, or a postdoc (e.g. Boya Postdoc Fellowship at Peking Uinveristy, 北京大学博雅博士后), please email Cunren Liang at cunren.liang@pku.edu.cn.
+We are multidisciplinary and welcome students of different backgrounds such as electrical engineering, computer science, remote sensing, geophysics, geographic information system, geomatics etc. If you are interested in joining our group as a master’s or PhD student, or a postdoc (e.g. [Boya Postdoc Fellowship at Peking Uinveristy](https://the-updates.com/boya-postdoctoral-fellowship-peking-university-china-2021/), 北京大学博雅博士后), please email Cunren Liang at cunren.liang@pku.edu.cn.
