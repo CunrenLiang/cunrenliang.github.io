@@ -15,5 +15,5 @@ Ph.D. Candidate, California Institute of Technology
 B.S., University of California, San Diego, 2020
 
 
-### Students and Postdocs
+### Prospective Students and Postdocs
 We are multidisciplinary and welcome students of different backgrounds such as electrical engineering, computer science, remote sensing, geophysics, geographic information system, geomatics etc. If you are interested in joining our group as a master’s or PhD student, or a postdoc (e.g. [Boya Postdoc Fellowship](https://the-updates.com/boya-postdoctoral-fellowship-peking-university-china-2021/) at Peking Uinveristy, 北京大学博雅博士后), please email Cunren Liang at cunren.liang@pku.edu.cn.
