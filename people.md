@@ -12,11 +12,11 @@ Cunren Liang mainly works on Synthetic Aperture Radar (SAR) signal processing, i
 
 ### Incoming Students
 * <span style="color:Gray; font-weight: 800">Xue Li</span>  
-Ph.D. Candidate, Peking University, 2022-
-B.S., University of Electronic Science and Technology of China, expected 2022
+Ph.D. Candidate, Peking University, 2022-  
+B.S., University of Electronic Science and Technology of China, expected 2022  
 
 * <span style="color:Gray; font-weight: 800">Fan Yang</span>  
-Master’s student, Peking University, 2022-
+Master’s student, Peking University, 2022-  
 B.S., Peking University, expected 2022
 
 
