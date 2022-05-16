@@ -19,6 +19,9 @@ B.S., University of Electronic Science and Technology of China, expected 2022
 Master’s student, Peking University, 2022-  
 B.S., Peking University, expected 2022
 
+* <span style="color:Gray; font-weight: 800">Yuhang Wang</span>  
+B.S., Peking University, expected 2023
+
 
 ### Visiting Students
 * <span style="color:Gray; font-weight: 800">Zhen Yu</span>  
