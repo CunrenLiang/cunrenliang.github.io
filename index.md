@@ -9,4 +9,4 @@ feature_image: "assets/images/earth_iss_nasa.jpg"
 <p style="text-align: center;">
 <p style="text-align: center;">
 
-<p style="text-align: center;">We develop synthetic aperture radar (SAR) processing algorithms and sofware. We apply the algorithms in engineering, geoscience and natural hazard response.
+<p style="text-align: center;">We develop synthetic aperture radar (SAR) processing algorithms and software. We apply the algorithms in engineering, geoscience and natural hazard response.
