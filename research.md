@@ -50,10 +50,10 @@ Radar can image in all weather conditions and without the need of illumination f
 {% include figure.html image="../assets/images/research/dpm_nepal_earthquake.jpg" caption="Damage proxy map of the 2015 Nepal earthquake generated using SAR data." position="center" width="800" %}
 
 
-#### Current Projects
-* <span style="color:black; font-weight: 600">国家青年人才计划项目</span>, PI
-* <span style="color:black; font-weight: 600">复杂困难地区大范围L波段InSAR时序分析技术研究</span>, PI, National Natural Science Fundation of China
-* <span style="color:black; font-weight: 600">[Calibration/Validation and Science Team (CVST) of ALOS-4 mission](https://www.eorc.jaxa.jp/ALOS/en/alos-4/a4_calval_e.htm)</span>, PI, Japan Aerospace Exploration Agency (JAXA)
-* <span style="color:black; font-weight: 600">Integrating Volcano and Earthquake Science and Technology (InVEST) in Southeast Asia</span>, Co-PI, Ministry of Education, Singapore
-* <span style="color:black; font-weight: 600">New Techniques for Monitoring Carbon Stock and Flux in Southeast Asia using Spaceborne SAR and LiDAR Observations</span>, Co-PI, Space Technology Development Programme, Singapore
+###### Current Projects
+* 国家高层次人才计划项目（青年）, PI
+* 复杂困难地区大范围L波段InSAR时序分析技术研究, PI, National Natural Science Fundation of China
+* [Calibration/Validation and Science Team (CVST) of ALOS-4 mission](https://www.eorc.jaxa.jp/ALOS/en/alos-4/a4_calval_e.htm), PI, Japan Aerospace Exploration Agency (JAXA), Japan
+* Integrating Volcano and Earthquake Science and Technology (InVEST) in Southeast Asia, Co-PI, Ministry of Education, Singapore
+* New Techniques for Monitoring Carbon Stock and Flux in Southeast Asia using Spaceborne SAR and LiDAR Observations, Co-PI, Space Technology Development Programme, Singapore
 
