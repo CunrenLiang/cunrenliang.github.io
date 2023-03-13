@@ -48,3 +48,14 @@ The unique capabilities of InSAR make it widely used in science and engineering.
 Radar can image in all weather conditions and without the need of illumination from the Sun. This makes it particularly useful in areas like the cloudy or rainy southern China where geohazards can easily happen. As the number of civil and commercial SAR satellites is growing rapidly, we may be able to detect daily or even hourly surface changes. The results have already been proved to be of great values to government agencies. Previously we have worked with researchers to produce damage proxy maps (DPM) that map the damages caused by various natural disasters. Many of the results have been used to aid in the response of these disasters (e.g. [Yun et al., 2015, _SRL_](https://pubs.geoscienceworld.org/ssa/srl/article/86/6/1549/315478/Rapid-Damage-Mapping-for-the-2015-Mw-7-8-Gorkha)).
 
 {% include figure.html image="../assets/images/research/dpm_nepal_earthquake.jpg" caption="Damage proxy map of the 2015 Nepal earthquake generated using SAR data." position="center" width="800" %}
+
+
+###### Projects
+
+ ""
+* <span style="color:black; font-weight: 600">国家级青年人才计划项目</span>
+* <span style="color:black; font-weight: 600">复杂困难地区大范围L波段InSAR时序分析技术研究</span>, PI, National Natural Science Fundation of China
+* <span style="color:black; font-weight: 600">Calibration/Validation and Science Team (CVST) of ALOS-4 mission</span>, PI, Japan Aerospace Exploration Agency (JAXA)
+* <span style="color:black; font-weight: 600">Integrating Volcano and Earthquake Science and Technology (InVEST) in Southeast Asia</span>, Co-PI, Ministry of Education, Singapore
+* <span style="color:black; font-weight: 600">New Techniques for Monitoring Carbon Stock and Flux in Southeast Asia using Spaceborne SAR and LiDAR Observations</span>, Co-PI, Space Technology Development Programme, Singapore
+

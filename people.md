@@ -27,6 +27,10 @@ B.S., Peking University, expected 2023
 
 
 ### Visiting Students
+* <span style="color:Gray; font-weight: 800">Chaoqi Lin</span>  
+Master’s student, Southern University of Science and Technology, 2021-  
+B.S., Wuhan University, 2021
+
 * <span style="color:Gray; font-weight: 800">Zhen Yu</span>  
 Ph.D. Candidate, California Institute of Technology  
 B.S., University of California, San Diego, 2020
