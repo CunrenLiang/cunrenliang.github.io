@@ -54,6 +54,5 @@ Radar can image in all weather conditions and without the need of illumination f
 * 国家高层次人才计划项目（青年）, PI
 * 复杂困难地区大范围L波段InSAR时序分析技术研究, PI, National Natural Science Fundation of China
 * [Calibration/Validation and Science Team (CVST) of ALOS-4 mission](https://www.eorc.jaxa.jp/ALOS/en/alos-4/a4_calval_e.htm), PI, Japan Aerospace Exploration Agency (JAXA), Japan
-* Integrating Volcano and Earthquake Science and Technology (InVEST) in Southeast Asia, Co-PI, Ministry of Education, Singapore
 * New Techniques for Monitoring Carbon Stock and Flux in Southeast Asia using Spaceborne SAR and LiDAR Observations, Co-PI, Space Technology Development Programme, Singapore
-
+* Integrating Volcano and Earthquake Science and Technology (InVEST) in Southeast Asia, Co-PI, Ministry of Education, Singapore
