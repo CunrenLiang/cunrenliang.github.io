@@ -19,11 +19,12 @@ B.S., University of Electronic Science and Technology of China, 2022
 Master’s student, Peking University, 2022-  
 B.S., Peking University, 2022
 
-
-### Incoming Students
 * <span style="color:Gray; font-weight: 800">Yuhang Wang</span>  
 Ph.D. Candidate, Peking University, 2023-  
-B.S., Peking University, expected 2023
+B.S., Peking University, 2023
+
+### Incoming Students
+
 
 
 ### Visiting Students
