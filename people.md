@@ -24,7 +24,7 @@ Ph.D. Candidate, 2023-
 B.S., Peking University, 2023
 
 
-{% include figure.html image="../assets/images/group_2023.jpg" caption="Our Group in Autumn 2023" position="center" width="600" %}
+{% include figure.html image="../assets/images/group_autumn_2023.jpg" caption="Our Group in Autumn 2023" position="center" width="600" %}
 
 
 ### Incoming Students
