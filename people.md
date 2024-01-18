@@ -28,7 +28,9 @@ B.S., Peking University, 2023
 
 
 ### Incoming Students
-
+* <span style="color:Gray; font-weight: 800">Kunyi Chen</span>  
+Ph.D. Candidate, 2024-  
+B.S., Peking University, expected 2024
 
 
 ### Visiting Students
