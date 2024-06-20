@@ -16,21 +16,22 @@ Ph.D. Candidate, 2022-
 B.S., University of Electronic Science and Technology of China, 2022  
 
 * <span style="color:Gray; font-weight: 800">Fan Yang</span>  
-Master’s student, 2022-  
+Ph.D. Candidate, 2022-  
 B.S., Peking University, 2022
 
 * <span style="color:Gray; font-weight: 800">Yuhang Wang</span>  
 Ph.D. Candidate, 2023-  
 B.S., Peking University, 2023
 
+* <span style="color:Gray; font-weight: 800">Kunyi Chen</span>  
+Ph.D. Candidate, 2024-  
+B.S., Peking University, 2024
 
 {% include figure.html image="../assets/images/group_autumn_2023.jpg" caption="Our Group in Autumn 2023" position="center" width="600" %}
 
 
 ### Incoming Students
-* <span style="color:Gray; font-weight: 800">Kunyi Chen</span>  
-Ph.D. Candidate, 2024-  
-B.S., Peking University, expected 2024
+
 
 
 ### Visiting Students
