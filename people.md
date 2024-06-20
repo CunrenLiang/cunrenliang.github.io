@@ -36,7 +36,7 @@ B.S., Peking University, 2024
 
 ### Visiting Students
 * <span style="color:Gray; font-weight: 800">Chaoqi Lin</span>  
-Master’s student, Southern University of Science and Technology, 2021-2024
+Master’s student, Southern University of Science and Technology, 2021-2024  
 B.S., Wuhan University, 2021
 
 * <span style="color:Gray; font-weight: 800">Zhen Yu</span>  
