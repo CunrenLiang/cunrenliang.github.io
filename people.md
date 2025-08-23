@@ -12,7 +12,7 @@ Cunren Liang mainly works on Synthetic Aperture Radar (SAR) signal processing, i
 
 ### Current Students
 
-# Graduate Students
+###### Graduate Students
 * <span style="color:Gray; font-weight: 800">Xue Li</span>  
 Ph.D. Candidate, 2022-  
 B.S., University of Electronic Science and Technology of China, 2022  
@@ -43,11 +43,11 @@ Undergraduate Student, Peking University, 2022-
 {% include figure.html image="../assets/images/group_autumn_2023.jpg" caption="Our Group in Autumn 2023" position="center" width="600" %}
 
 
-# Incoming Students
+###### Incoming Students
 
 
 
-# Visiting Students
+###### Visiting Students
 * <span style="color:Gray; font-weight: 800">Chaoqi Lin</span>  
 Master’s student, Southern University of Science and Technology, 2021-2024  
 B.S., Wuhan University, 2021
