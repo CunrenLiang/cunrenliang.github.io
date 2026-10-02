@@ -15,7 +15,7 @@ The development of synthetic aperture radar interferometry (InSAR) over the last
 ###### Radar Signal and Image Processing
 Radar signal and image processing draws on theories from statistics, signal processing, electromagnetic scattering, and geodesy. A typical example is SAR focusing. The original data acquired by SAR are called raw data, which look much like pure noise if displayed as an image. Through signal processing techniques, or focusing, an image can be formed. Further processing, such as denoising, is thus performed in the image domain for numerous applications. One of our group’s research focuses is on the processing of data acquired in advanced modes, such as spotlight, ScanSAR, TOPS and SweepSAR, which requires more sophisticated signal processing algorithms (e.g. [Liang et al., 2017, _IEEE TGRS_](https://ieeexplore.ieee.org/document/8038865)).
 
-{% include figure.html image="../assets/images/research/pta+sar_image.jpg" caption="Left: radar signal focusing exemplified by point target analysis. Right: a focused high resolution X-band satellite SAR image (Credit: Capella Space)." position="center" width="1200" %}
+{% include figure.html image="../assets/images/research/pta+sar_image.jpg" caption="Left: radar signal focusing exemplified by point target analysis. Right: a focused high resolution X-band satellite SAR image (Credit: Capella Space)." position="center" width="1000" %}
 
 
 ###### Synthetic Aperture Radar Interferometry (InSAR)
