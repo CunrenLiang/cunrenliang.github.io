@@ -5,8 +5,8 @@ feature_text: |
 feature_image: "../assets/images/tibet/tibet_s1_a41_210504-210516_8.jpg"
 ---
 
-{% include figure.html image="../assets/images/research/Atlantis_and_Magellan_(3).jpg" caption="Radar Mission Magellan to Venus (Credit: NASA)" position="right" height="200" %}
-{% include figure.html image="../assets/images/research/Sentinel-1_radar_vision.jpg" caption="Earth Observation with Synthetic Aperture Radar (Credit: ESA)" position="right" height="200" %}
+{% include figure.html image="../assets/images/research/Atlantis_and_Magellan_(3).jpg" caption="Radar Mission Magellan to Venus (Credit: NASA)" position="right" height="50" %}
+{% include figure.html image="../assets/images/research/Sentinel-1_radar_vision.jpg" caption="Earth Observation with Synthetic Aperture Radar (Credit: ESA)" position="right" height="50" %}
 
 
 Synthetic aperture radar (SAR) uses microwave to image the Earth or other planets. Unlike most optical instruments, SAR is an active sensor that transmits pulses toward the Earth and then receives the backscattered echoes. Therefore, SAR does not require the illumination from the Sun and can image in daylight or at night. Moreover, the microwave signals can penetrate through clouds, which enables SAR to work in all-weather conditions.
