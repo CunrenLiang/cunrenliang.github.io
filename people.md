@@ -14,7 +14,7 @@ He is currently in the [Calibration/Validation and Science Team (CVST)](https://
 
 ### Current Students
 
-##### Ph.D. Student
+##### Ph.D. Students
 * <span style="color:Gray; font-weight: 800">Xue Li</span>  
 Ph.D. Student, 2022-  
 B.S., University of Electronic Science and Technology of China, 2022  
@@ -32,11 +32,11 @@ Ph.D. Student, 2024-
 B.S., Peking University, 2024
 
 * <span style="color:Gray; font-weight: 800">Yusheng Li</span>  
-Ph.D. Student, 2026-
+Ph.D. Student, 2026-  
 B.S., Peking University, 2026
 
 
-##### Master's student
+##### Master's students
 * <span style="color:Gray; font-weight: 800">Guanshu Ao</span>  
 Master's student, 2025-  
 B.S., Northwestern Polytechnical University
@@ -52,10 +52,6 @@ B.S., Peking University, 2026-
 {% include figure.html image="../assets/images/group_autumn_2023.jpg" caption="Our Group in Autumn 2023" position="center" width="600" %}
 
 
-##### Incoming Students
-
-
-
 ##### Visiting Students
 * <span style="color:Gray; font-weight: 800">Chaoqi Lin</span>  
 Master’s student, Southern University of Science and Technology, 2021-2024  
@@ -67,4 +63,4 @@ B.S., University of California, San Diego, 2020
 
 
 ### Prospective Students and Postdocs
-We are multidisciplinary and welcome students from diverse backgrounds, including electronic/electrical engineering, telecommunication engineering, physics/math, computer science, remote sensing, geophysics, geographic information science, geomatics etc. If you are interested in joining our group as a master’s or PhD student or as a postdoc (e.g., through the [Boya Postdoc Fellowship](https://the-updates.com/boya-postdoctoral-fellowship-peking-university-china-2021/) at Peking University, with two application rounds per year, 北京大学博雅博士后), please email Cunren Liang at cunren.liang@pku.edu.cn.
+We are multidisciplinary and welcome students from diverse backgrounds, including Electronic/Electrical/Telecommunications Engineering, Physics/Mathematics, Computer Science, Remote Sensing, Geomatics/Geodesy/Geophysics, Geographic Information Science etc. If you are interested in joining our group as a master’s or PhD student or as a postdoc (e.g., through the [Boya Postdoc Fellowship](https://the-updates.com/boya-postdoctoral-fellowship-peking-university-china-2021/) at Peking University, with two application rounds per year, 北京大学博雅博士后), please email Cunren Liang at cunren.liang@pku.edu.cn.
