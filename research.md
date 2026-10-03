@@ -59,7 +59,7 @@ The unique capabilities of SAR and InSAR make them widely used in science and en
 * Integrating Volcano and Earthquake Science and Technology (InVEST) in Southeast Asia, Ministry of Education, Singapore, International Collaborator
 
 
-##_Prior to joining Peking University (Selected)_
+## _Prior to joining Peking University (Selected)_
 * NISAR Mission Science Team project, awarded 2018, Co-I
 * NASA Earth Science Applications: Disaster Risk Reduction and Response, awarded 2018, Co-I
 * NASA Earth Surface and Interior projects, awarded 2015, 2016, 2017, Co-I
