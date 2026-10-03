@@ -5,31 +5,43 @@ feature_text: |
 feature_image: "../assets/images/tibet/tibet_s1_a41_210504-210516_4.jpg"
 ---
 
-Selected Journal Publications from My Research Group at Peking University
-Published and Accepted for Publication (* Student Advised, # Corresponding Author)
-* Kunyi Chen* and Cunren Liang#, "[Precision of InSAR time series at different wavelengths: Effects of random-motion-induced temporal decorrelation](https://doi.org/10.1109/TGRS.2026.3706530)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-15, 2026.
-* Fan Yang*, Cunren Liang#, and Yuhang Wang*, "[InSAR phase errors due to range misregistrations](https://doi.org/10.1109/TGRS.2026.3664181),” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-19, 2026.
-* Yuhang Wang*, Cunren Liang#, Fan Yang*, Ligong Yang, Shangzong Lu, Xue Li*, and Qiming Zeng, "[Global radio frequency interference in L-band SAR data from ALOS-1 and JERS-1 satellites](https://doi.org/10.1016/j.rse.2025.114955)," _Remote Sensing of Environment_, vol. 330, pp. 1-21, 2025.
-* Cunren Liang#, Eric J. Fielding, Zhen Liu, Takeshi Motohka, Ryo Natsuaki, and Sang-Ho Yun, "[An analysis of the potentials of L-band SAR satellites for measuring azimuth motion](https://doi.org/10.1016/j.rse.2024.114426)," _Remote Sensing of Environment_, vol. 315, pp. 1-19, 2024.
+Publications from My Research Group (* Student Advised, # Corresponding Author)
+
+Published
+* Xue Li^*, Cunren Liang^#, Jiafeng Li, and Kejie Chen, "An evaluation of Global Ionosphere Maps for the ionospheric correction of C-band InSAR data," Accepted for publication in _Journal of Geodesy_, vol., pp. 1-25, 2026.
+
 * Fan Yang*, Yuhang Wang*, Cunren Liang#, and Kunyi Chen*, "[InSAR and closure phase errors due to the along-track ionospheric variations within the synthetic aperture](https://doi.org/10.1109/TGRS.2026.3721702)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-28, 2026.
-* Xue Li*, Cunren Liang#, Jiafeng Li, and Kejie Chen, "An evaluation of Global Ionosphere Maps for the ionospheric correction of C-band InSAR data," Accepted for publication in _Journal of Geodesy_, vol. *, pp. 1-25, 2026.
 
-Revised (* Student Advised, # Corresponding Author)
+* Kunyi Chen* and Cunren Liang#, "[Precision of InSAR time series at different wavelengths: Effects of random-motion-induced temporal decorrelation](https://doi.org/10.1109/TGRS.2026.3706530)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-15, 2026.
+
+* Fan Yang*, Cunren Liang#, and Yuhang Wang*, "[InSAR phase errors due to range misregistrations](https://doi.org/10.1109/TGRS.2026.3664181),” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-19, 2026.
+
+* Yuhang Wang*, Cunren Liang#, Fan Yang*, Ligong Yang, Shangzong Lu, Xue Li*, and Qiming Zeng, "[Global radio frequency interference in L-band SAR data from ALOS-1 and JERS-1 satellites](https://doi.org/10.1016/j.rse.2025.114955)," _Remote Sensing of Environment_, vol. 330, pp. 1-21, 2025.
+
+* Cunren Liang#, Eric J. Fielding, Zhen Liu, Takeshi Motohka, Ryo Natsuaki, and Sang-Ho Yun, "[An analysis of the potentials of L-band SAR satellites for measuring azimuth motion](https://doi.org/10.1016/j.rse.2024.114426)," _Remote Sensing of Environment_, vol. 315, pp. 1-19, 2024.
+
+Revised
 * Yuhang Wang*, Cunren Liang#, Xue Li*, Fan Yang*, and Kunyi Chen*, "On the range spectral loss in InSAR," Revised, _IEEE Transactions on Geoscience and Remote Sensing_.
-
-
-
-
-
-
-
-
 
 Under Review (* Student Advised, # Corresponding Author)
 * Yusheng Li*, Cunren Liang#, and Yuhang Wang*, "Precision of phase correlation for speckle tracking," Under review.
 * Kunyi Chen*, Cunren Liang#, Fan Yang*, Xue Li*, and Yuhang Wang*, "Secondary InSAR ionospheric phase in NISAR data," Under review.
 * Cunren Liang#, Xue Li*, Yuhang Wang*, Zhen Liu, Mark Simons, Eric J. Fielding, Yuan-Kai Liu, and Sang-Ho Yun, "Evaluating ALOS-2 L-band InSAR observations of tectonic motion in the Western United States," Under review.
 * Guanshu Ao*, Cunren Liang#, and Yuxiao Qin, "Overestimation of InSAR coherence due to RCS inhomogeneity," Under review.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Other Journal Publications (Co-authored)
 * Peng Li, Jiahan Zhang, Fengling Yu, Kai Tan, Nan Xu, Chunpeng Chen, Pengfei Tang, Cunren Liang, Zhenhong Li, Houjie Wang, "Delta-Scale 10-m Tidal Flat Topography Reconstruction: A Transferable Deep Learning Approach Using Sentinel-2 Time Series," IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 1-12, 2026. DOI: https://doi.org/10.1109/TGRS.2026.3686116
