@@ -7,7 +7,7 @@ feature_image: "../assets/images/tibet/tibet_s1_a41_210504-210516_8.jpg"
 
 Synthetic aperture radar (SAR) uses microwaves to image the Earth and other planetary bodies. Unlike most optical instruments, SAR is an active sensor that transmits pulses toward the surface and then receives the backscattered echoes. Therefore, SAR does not require solar illumination and can acquire images day or night. Moreover, microwaves can penetrate clouds, enabling SAR to operate under all weather conditions. A significant advantage of remote sensing with SAR is that the entire process, from the underlying physical principles to data processing techniques, is highly quantitative, enabling the retrieval of physical parameters with high precision.
 
-{% include figure.html image="../assets/images/research/sentinel1-magellan.jpg" caption="Left: Earth observation through clouds with synthetic aperture radar (Credit: ESA). Right: Magellan radar mission to Venus, launched aboard space shuttle Atlantis (Credit: NASA)." position="center" width="1000" %}
+{% include figure.html image="../assets/images/research/sentinel1-magellan.jpg" caption="Left: Earth observation through clouds with synthetic aperture radar (Credit: ESA). Right: Magellan radar mission to Venus, launched aboard space shuttle Atlantis (Credit: NASA)." position="center" width="1200" %}
 
 The development of synthetic aperture radar interferometry (InSAR) over the last few decades has further enabled SAR to measure the Earth's surface in the third dimension, providing information on topography and surface deformation. InSAR measures surface deformation using the phase of radar waves, whose wavelengths range from a few to several tens of centimeters, and thus can achieve the amazing centimeter- to millimeter-level precision. Coincidentally, many deformations on the Earth’s surface are comparable in magnitude to radar wavelengths (yes, surface deformation occurs almost everywhere on Earth. You just cannot see it in most cases, but InSAR can). Therefore, InSAR is widely used in engineering and scientific applications and has even revolutionized research in related fields. Driven by their unique capabilities and a growing range of applications, SAR and InSAR are expanding beyond academia, with an increasing number of companies around the world commercializing these technologies. Analysts estimated the global SAR market at roughly $4 billion in 2021 and projected it to nearly double over the following five years ([Rosen, 2021, _Science_](https://science.sciencemag.org/content/371/6532/876)).
 
@@ -43,22 +43,25 @@ Our group studies all sources of errors along with methods for correcting them t
 {% include figure.html image="../assets/images/research/south_california_ion.jpg" caption="Left: Ionosphere and satellite synthetic aperture radar. Middle: InSAR measurements without ionospheric corrections. Right: InSAR measurements with ionospheric corrections. The region is Southern California, United States. The ground deformation is primarily caused by the relative motion between the Pacific Plate and the North American Plate (copyright: Liang Group)." position="center" width="1200" %}
 
 
-###### InSAR Applications in Geophysics and other Fields
-The unique capabilities of InSAR make it widely used in science and engineering. Researchers have been using InSAR to study earthquakes, tectonics, glaciers, volcanoes, landslide, hydrology etc. InSAR is also used in a number of fields in engineering such as the monitoring of critical infrastructures (e.g. buildings, bridges, dams, tunnels, subways and railways), city subsidence, land subsidence due to oil and water pumping, mining etc. New applications are also emerging in other fields. In some fields, it would have been difficult or even impossible to accomplish without the help of InSAR. Previously our group had collaborated with researchers at major universities such as UC Berkeley, UCLA and Caltech to apply InSAR to the study of significant problems in geophysics (e.g. [Hamling et al., 2017, _Science_](https://science.sciencemag.org/content/356/6334/eaam7194)).
+###### SAR and InSAR Applications
+The unique capabilities of SAR and InSAR make them widely used in science and engineering. In particular, InSAR has been used to study earthquakes, tectonics, glaciers, volcanoes, landslides, hydrology, etc. InSAR has also been used in a number of engineering fields, such as the monitoring of critical infrastructure (e.g., buildings, bridges, dams, tunnels, subways, and railways), city subsidence, land subsidence due to oil and water pumping, and mining. Another important use of SAR and InSAR is the study and monitoring of natural hazards, which is particularly valuable in regions such as southern China, where geohazards can occur frequently, but cloudy or rainy conditions often make optical remote sensing difficult. New applications are also emerging in other fields. Our group has been collaborating with researchers at major universities, such as UC Berkeley, UCLA, and Caltech, to apply InSAR to the study of significant problems in geophysics (e.g. [Hamling et al., 2017, _Science_](https://science.sciencemag.org/content/356/6334/eaam7194)).
 
 {% include figure.html image="../assets/images/research/Kaikoura_earthquake.jpg" caption="InSAR data used to study the 2016 Mw 7.8 Kaikōura earthquake in New Zealand. Left: ALOS-2 interferogram. Right: Best-fitting crustal fault model." position="center" width="1000" %}
 
 
-###### Natural Hazard Response with SAR
-
-Radar can image in all weather conditions and without the need of illumination from the Sun. This makes it particularly useful in areas like the cloudy or rainy southern China where geohazards can easily happen. As the number of civil and commercial SAR satellites is growing rapidly, we may be able to detect daily or even hourly surface changes. The results have already been proved to be of great values to government agencies. Previously we have worked with researchers to produce damage proxy maps (DPM) that map the damages caused by various natural disasters. Many of the results have been used to aid in the response of these disasters (e.g. [Yun et al., 2015, _SRL_](https://pubs.geoscienceworld.org/ssa/srl/article/86/6/1549/315478/Rapid-Damage-Mapping-for-the-2015-Mw-7-8-Gorkha)).
-
-{% include figure.html image="../assets/images/research/dpm_nepal_earthquake.jpg" caption="Damage proxy map of the 2015 Nepal earthquake generated using SAR data." position="center" width="800" %}
-
-
-###### Current Projects
+###### Research Funding and Projects
 * 国家高层次人才计划项目（青年）, PI
-* 复杂困难地区大范围L波段InSAR时序分析技术研究, PI, National Natural Science Fundation of China
-* [Calibration/Validation and Science Team (CVST) of ALOS-4 mission](https://www.eorc.jaxa.jp/ALOS/en/alos-4/a4_calval_e.htm), PI, Japan Aerospace Exploration Agency (JAXA), Japan
-* New Techniques for Monitoring Carbon Stock and Flux in Southeast Asia using Spaceborne SAR and LiDAR Observations, Co-PI, Space Technology Development Programme, Singapore
-* Integrating Volcano and Earthquake Science and Technology (InVEST) in Southeast Asia, Co-PI, Ministry of Education, Singapore
+* 国家自然科学基金面上项目 - 复杂困难地区大范围L波段InSAR时序分析技术研究, PI
+* 南方科技大学委托项目, PI
+* ALOS-4 Calibration/Validation and Science Team (CVST) project (2025–2028), PI, Japan Aerospace Exploration Agency (JAXA), Japan
+* [ALOS-4 Calibration/Validation and Science Team (CVST) project (2022–2025)](https://www.eorc.jaxa.jp/ALOS/en/alos-4/a4_calval_e.htm), PI, Japan Aerospace Exploration Agency (JAXA), Japan
+* New Techniques for Monitoring Carbon Stock and Flux in Southeast Asia using Spaceborne SAR and LiDAR Observations, Space Technology Development Programme, Singapore, International Collaborator
+* Integrating Volcano and Earthquake Science and Technology (InVEST) in Southeast Asia, Ministry of Education, Singapore, International Collaborator
+
+
+Prior to joining Peking University (Selected)
+* NISAR Mission Science Team project, awarded 2018, Co-I
+* NASA Earth Science Applications: Disaster Risk Reduction and Response, awarded 2018, Co-I
+* NASA Earth Surface and Interior projects, awarded 2015, 2016, 2017, Co-I
+* NISAR Mission Science Definition Team project, awarded 2015, Co-I
+
