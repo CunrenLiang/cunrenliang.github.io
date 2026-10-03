@@ -22,7 +22,7 @@ Radar signal and image processing draws on theories from statistics, signal proc
 
 A SAR image is a complex image with both magnitude and phase. By comparing the phases of two radar images, InSAR can measure topography or deformation on the Earth’s surface. The cool thing about satellite InSAR is that it measures deformation on the ground with centimeter or even millimeter precision at an altitude of about 800 km above the Earth's surface. Furthermore, the measurement is an image, which is like deploying millions of Global Navigation Satellite System (GNSS) stations on the ground to monitor surface deformations. By processing many InSAR images with time series analysis techniques, we can further track the temporal evolution of surface deformation, which has numerous applications.
 
-{% include figure.html image="../assets/images/research/insar.jpg" caption="Measuring millimeter-level ground deformation with Synthetic Aperture Radar Interferometry (InSAR) from 800 km above the Earth's surface" position="center" width="600" %}
+{% include figure.html image="../assets/images/research/insar.jpg" caption="Measuring millimeter-level ground deformation with Synthetic Aperture Radar Interferometry (InSAR) from 800 km above the Earth's surface" position="center" width="500" %}
 
 InSAR involves a number of processing steps and still has challenges or even bottlenecks. The algorithms are continuously evolving. With an ever-growing number of satellite SAR missions and advanced imaging capabilities, the amount of SAR data is exploding - SAR is also entering the big data era. This brings new challenges and opportunities, especially for InSAR time series analysis, and requires efficient processing techniques.
 
