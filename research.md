@@ -53,13 +53,13 @@ The unique capabilities of SAR and InSAR make them widely used in science and en
 * 国家海外高层次人才计划项目（青年）, PI
 * 国家自然科学基金面上项目 - 复杂困难地区大范围L波段InSAR时序分析技术研究, PI
 * 南方科技大学委托项目, PI
-* ALOS-4 Calibration/Validation and Science Team (CVST) project (2025–2028), PI, Japan Aerospace Exploration Agency (JAXA), Japan
-* [ALOS-4 Calibration/Validation and Science Team (CVST) project (2022–2025)](https://www.eorc.jaxa.jp/ALOS/en/alos-4/a4_calval_e.htm), PI, Japan Aerospace Exploration Agency (JAXA), Japan
+* ALOS-4 Calibration/Validation and Science Team (CVST) project (2025–2028), Japan Aerospace Exploration Agency (JAXA), Japan, PI
+* [ALOS-4 Calibration/Validation and Science Team (CVST) project (2022–2025)](https://www.eorc.jaxa.jp/ALOS/en/alos-4/a4_calval_e.htm), Japan Aerospace Exploration Agency (JAXA), Japan, PI
 * New Techniques for Monitoring Carbon Stock and Flux in Southeast Asia using Spaceborne SAR and LiDAR Observations, Space Technology Development Programme, Singapore, International Collaborator
 * Integrating Volcano and Earthquake Science and Technology (InVEST) in Southeast Asia, Ministry of Education, Singapore, International Collaborator
 
 
-## _Prior to joining Peking University (Selected)_
+_Prior to joining Peking University (Selected)_
 * NISAR Mission Science Team project, awarded 2018, Co-I
 * NASA Earth Science Applications: Disaster Risk Reduction and Response, awarded 2018, Co-I
 * NASA Earth Surface and Interior projects, awarded 2015, 2016, 2017, Co-I
