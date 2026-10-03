@@ -5,6 +5,24 @@ feature_text: |
 feature_image: "../assets/images/tibet/tibet_s1_a41_210504-210516_4.jpg"
 ---
 
+
+Selected Journal Publications from My Research Group at Peking University
+Published and Accepted for Publication (* Student Advised, # Corresponding Author)
+* Kunyi Chen* and Cunren Liang#, “Precision of InSAR time series at different wavelengths: Effects of random-motion-induced temporal decorrelation,” IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 1-15, 2026. DOI: https://doi.org/10.1109/TGRS.2026.3706530
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### Prior to joining Peking University
 ###### 2020
 * E. J. Fielding, Z. Liu, O. L. Stephenson, M. Zhong, <span style="color:black; font-weight: 600">C. Liang</span>, A. Moore, S.-H. Yun, and M. Simons, "[Surface deformation related to the 2019 Mw 7.1 and 6.4 Ridgecrest earthquakes in California from GPS, SAR interferometry, and SAR pixel offsets](https://pubs.geoscienceworld.org/ssa/srl/article/91/4/2035/582903/Surface-Deformation-Related-to-the-2019-Mw-7-1-and)," _Seismological Research Letters_, vol. 91, no. 4, pp. 2035-2046, Jul. 2020.
 
