@@ -7,57 +7,60 @@ feature_image: "../assets/images/tibet/tibet_s1_a41_210504-210516_4.jpg"
 
 Publications from My Research Group (* Student Advised, # Corresponding Author)
 
-Published
+_Published_
 * Xue Li\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Jiafeng Li, and Kejie Chen, "An evaluation of Global Ionosphere Maps for the ionospheric correction of C-band InSAR data," Accepted for publication in _Journal of Geodesy_, vol., pp. 1-25, 2026.
 
-* Fan Yang\*, Yuhang Wang\*, Cunren Liang<sup>#</sup>, and Kunyi Chen*, "[InSAR and closure phase errors due to the along-track ionospheric variations within the synthetic aperture](https://doi.org/10.1109/TGRS.2026.3721702)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-28, 2026.
+* Fan Yang\*, Yuhang Wang\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, and Kunyi Chen\*, "[InSAR and closure phase errors due to the along-track ionospheric variations within the synthetic aperture](https://doi.org/10.1109/TGRS.2026.3721702)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-28, 2026.
 
-* Kunyi Chen* and Cunren Liang#, "[Precision of InSAR time series at different wavelengths: Effects of random-motion-induced temporal decorrelation](https://doi.org/10.1109/TGRS.2026.3706530)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-15, 2026.
+* Kunyi Chen\* and <span style="color:black; font-weight: 600">Cunren Liang</span>\#, "[Precision of InSAR time series at different wavelengths: Effects of random-motion-induced temporal decorrelation](https://doi.org/10.1109/TGRS.2026.3706530)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-15, 2026.
 
-* Fan Yang*, Cunren Liang#, and Yuhang Wang*, "[InSAR phase errors due to range misregistrations](https://doi.org/10.1109/TGRS.2026.3664181),” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-19, 2026.
+* Fan Yang\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "[InSAR phase errors due to range misregistrations](https://doi.org/10.1109/TGRS.2026.3664181),” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-19, 2026.
 
-* Yuhang Wang*, Cunren Liang#, Fan Yang*, Ligong Yang, Shangzong Lu, Xue Li*, and Qiming Zeng, "[Global radio frequency interference in L-band SAR data from ALOS-1 and JERS-1 satellites](https://doi.org/10.1016/j.rse.2025.114955)," _Remote Sensing of Environment_, vol. 330, pp. 1-21, 2025.
+* Yuhang Wang\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Ligong Yang, Shangzong Lu, Xue Li\*, and Qiming Zeng, "[Global radio frequency interference in L-band SAR data from ALOS-1 and JERS-1 satellites](https://doi.org/10.1016/j.rse.2025.114955)," _Remote Sensing of Environment_, vol. 330, pp. 1-21, 2025.
 
-* Cunren Liang#, Eric J. Fielding, Zhen Liu, Takeshi Motohka, Ryo Natsuaki, and Sang-Ho Yun, "[An analysis of the potentials of L-band SAR satellites for measuring azimuth motion](https://doi.org/10.1016/j.rse.2024.114426)," _Remote Sensing of Environment_, vol. 315, pp. 1-19, 2024.
-
-Revised
-* Yuhang Wang*, Cunren Liang#, Xue Li*, Fan Yang*, and Kunyi Chen*, "On the range spectral loss in InSAR," Revised, _IEEE Transactions on Geoscience and Remote Sensing_.
-
-Under Review (* Student Advised, # Corresponding Author)
-* Yusheng Li*, Cunren Liang#, and Yuhang Wang*, "Precision of phase correlation for speckle tracking," Under review.
-* Kunyi Chen*, Cunren Liang#, Fan Yang*, Xue Li*, and Yuhang Wang*, "Secondary InSAR ionospheric phase in NISAR data," Under review.
-* Cunren Liang#, Xue Li*, Yuhang Wang*, Zhen Liu, Mark Simons, Eric J. Fielding, Yuan-Kai Liu, and Sang-Ho Yun, "Evaluating ALOS-2 L-band InSAR observations of tectonic motion in the Western United States," Under review.
-* Guanshu Ao*, Cunren Liang#, and Yuxiao Qin, "Overestimation of InSAR coherence due to RCS inhomogeneity," Under review.
+* <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Eric J. Fielding, Zhen Liu, Takeshi Motohka, Ryo Natsuaki, and Sang-Ho Yun, "[An analysis of the potentials of L-band SAR satellites for measuring azimuth motion](https://doi.org/10.1016/j.rse.2024.114426)," _Remote Sensing of Environment_, vol. 315, pp. 1-19, 2024.
 
 
+_Revised_
+* Yuhang Wang\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Fan Yang\*, and Kunyi Chen\*, "On the range spectral loss in InSAR," Revised, _IEEE Transactions on Geoscience and Remote Sensing_.
 
 
+_Under Review_
+* Yusheng Li\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "Precision of phase correlation for speckle tracking," Under review.
+* Kunyi Chen\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Xue Li\*, and Yuhang Wang\*, "Secondary InSAR ionospheric phase in NISAR data," Under review.
+* <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Yuhang Wang\*, Zhen Liu, Mark Simons, Eric J. Fielding, Yuan-Kai Liu, and Sang-Ho Yun, "Evaluating ALOS-2 L-band InSAR observations of tectonic motion in the Western United States," Under review.
+* Guanshu Ao\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, and Yuxiao Qin, "Overestimation of InSAR coherence due to RCS inhomogeneity," Under review.
 
 
 
+Co-authored Publications
+* Peng Li, Jiahan Zhang, Fengling Yu, Kai Tan, Nan Xu, Chunpeng Chen, Pengfei Tang, <span style="color:black; font-weight: 600">Cunren Liang</span>, Zhenhong Li, Houjie Wang, "[Delta-Scale 10-m Tidal Flat Topography Reconstruction: A Transferable Deep Learning Approach Using Sentinel-2 Time Series](https://doi.org/10.1109/TGRS.2026.3686116)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-12, 2026.
 
+* Peng Li, Jianbo Bai, Lin Shen, Wei Tang, <span style="color:black; font-weight: 600">Cunren Liang</span>, Bin Zhao, Zhenhong Li, and Houjie Wang, "[Large-scale high-resolution coastal subsidence mapping in eastern China with Sentinel-1 and Sentinel-2: Heterogeneous patterns and primary drivers](https://doi.org/10.1016/j.jag.2025.105047)," _International Journal of Applied Earth Observation and Geoinformation_, vol. 146, pp. 1-18, February 2026.
 
+* Yidi Wang, Zhang Yunjun, Ningbo Wang, Runqing Liu, <span style="color:black; font-weight: 600">Cunren Liang</span>, Yosuke Aoki, and Robert Wang, "[Towards Long-Wavelength Ionospheric Correction of InSAR Time Series Using GNSS-Based TEC](https://doi.org/10.1109/TGRS.2026.3656511)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-14, 2026.
 
+* Jingtian Zhou, Yang Lei, Jinmei Pan, <span style="color:black; font-weight: 600">Cunren Liang</span>, Zhang Yunjun, Weiliang Li, Chuan Xiong, Jiancheng Shi, and Wei Ma, "[Snow water equivalent retrieval and analysis over Altay using 12 d repeat-pass Sentinel-1 interferometry](https://doi.org/10.5194/tc-19-5361-2025)," _The Cryosphere_, vol. 19, no. 11, pp. 5361-5388, November 2025.
 
+* Shangzong Lu, <span style="color:black; font-weight: 600">Cunren Liang</span>, and Qiming Zeng, "[Limitations of earthquake coseismic deformation measurements using InSAR](https://doi.org/10.1080/01431161.2024.2449478)," _International Journal of Remote Sensing_, vol. 46, no. 5, pp. 2212-2232, January 2025.
 
+* Chaoqi Lin, Kejie Chen, <span style="color:black; font-weight: 600">Cunren Liang</span>, Hai Zhu, Wenfeng Cui, Haishan Chai, Mingjia Li, Changhu Xue, Zhiwen Zheng, and Zhanhui Qing, "[Subsidence detection in southwest Guangdong–Hong Kong–Macao Greater Bay Area using InSAR with GNSS corrected tropospheric delays](https://doi.org/10.1016/j.asr.2024.09.018)," _Advances in Space Research_, vol. 75, no. 1, pp. 190-204, January 2025.
 
+* Peng Li, Shu Li, Zhenhong Li, <span style="color:black; font-weight: 600">Cunren Liang</span>, and Houjie Wang, "[Detailed detection and extraction of estuarine tidal channels with multispectral and full‐polarised SAR remote sensing](https://doi.org/10.1002/esp.5950)," _Earth Surface Processes and Landforms_, vol. 49, no. 12, pp. 3968-3988, September 2024.
 
+* Kejie Chen, Guoguang Wei, Christopher Milliner, Luca Dal Zilio, <span style="color:black; font-weight: 600">Cunren Liang</span>, and Jean-Philippe Avouac, "[Super-shear ruptures steered by pre-stress heterogeneities during the 2023 Kahramanmaraş earthquake doublet](https://doi.org/10.1038/s41467-024-51446-y)," _Nature Communications_, vol. 15, no. 1, pp. 1-11, August 2024.
 
-Other Journal Publications (Co-authored)
-* Peng Li, Jiahan Zhang, Fengling Yu, Kai Tan, Nan Xu, Chunpeng Chen, Pengfei Tang, Cunren Liang, Zhenhong Li, Houjie Wang, "Delta-Scale 10-m Tidal Flat Topography Reconstruction: A Transferable Deep Learning Approach Using Sentinel-2 Time Series," IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 1-12, 2026. DOI: https://doi.org/10.1109/TGRS.2026.3686116
-* Peng Li, Jianbo Bai, Lin Shen, Wei Tang, Cunren Liang, Bin Zhao, Zhenhong Li, and Houjie Wang, "Large-scale high-resolution coastal subsidence mapping in eastern China with Sentinel-1 and Sentinel-2: Heterogeneous patterns and primary drivers," International Journal of Applied Earth Observation and Geoinformation, vol. 146, pp. 1-18, February 2026. DOI: https://doi.org/10.1016/j.jag.2025.105047
-* Yidi Wang, Zhang Yunjun, Ningbo Wang, Runqing Liu, Cunren Liang, Yosuke Aoki, and Robert Wang, "Towards Long-Wavelength Ionospheric Correction of InSAR Time Series Using GNSS-Based TEC," IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 1-14, 2026. DOI: https://doi.org/10.1109/TGRS.2026.3656511
-* Jingtian Zhou, Yang Lei, Jinmei Pan, Cunren Liang, Zhang Yunjun, Weiliang Li, Chuan Xiong, Jiancheng Shi, and Wei Ma, "Snow water equivalent retrieval and analysis over Altay using 12 d repeat-pass Sentinel-1 interferometry," The Cryosphere, vol. 19, no. 11, pp. 5361-5388, November 2025. DOI: https://doi.org/10.5194/tc-19-5361-2025
-* Shangzong Lu, Cunren Liang, and Qiming Zeng, "Limitations of earthquake coseismic deformation measurements using InSAR," International Journal of Remote Sensing, vol. 46, no. 5, pp. 2212-2232, January 2025. DOI: https://doi.org/10.1080/01431161.2024.2449478
-* Chaoqi Lin, Kejie Chen, Cunren Liang, Hai Zhu, Wenfeng Cui, Haishan Chai, Mingjia Li, Changhu Xue, Zhiwen Zheng, and Zhanhui Qing, "Subsidence detection in southwest Guangdong–Hong Kong–Macao Greater Bay Area using InSAR with GNSS corrected tropospheric delays," Advances in Space Research, vol. 75, no. 1, pp. 190-204, January 2025. DOI: https://doi.org/10.1016/j.asr.2024.09.018
-* Peng Li, Shu Li, Zhenhong Li, Cunren Liang, and Houjie Wang, "Detailed detection and extraction of estuarine tidal channels with multispectral and full‐polarised SAR remote sensing," Earth Surface Processes and Landforms, vol. 49, no. 12, pp. 3968-3988, September 2024. DOI: https://doi.org/10.1002/esp.5950
-* Kejie Chen, Guoguang Wei, Christopher Milliner, Luca Dal Zilio, Cunren Liang, and Jean-Philippe Avouac, "Super-shear ruptures steered by pre-stress heterogeneities during the 2023 Kahramanmaraş earthquake doublet," Nature Communications, vol. 15, no. 1, pp. 1-11, August 2024. DOI: https://doi.org/10.1038/s41467-024-51446-y
-* Peng Li, Yun Zhang, Cunren Liang, Houjie Wang, and Zhenhong Li, "High spatiotemporal resolution river networks mapping on catchment scale using satellite remote sensing imagery and DEM data," Geophysical Research Letters, vol. 51, no. 6, pp. 1-11, March 2024. DOI: https://doi.org/10.1029/2023GL107956
-* Emmanuel Caballero, Zacharie Duputel, Cedric Twardzik, Luis Rivera, Emilie Klein, Junle Jiang, Cunren Liang, Lijun Zhu, Romain Jolivet, Eric Fielding, and Mark Simons, "Revisiting the 2015 Mw = 8.3 Illapel earthquake: unveiling complex fault slip properties using Bayesian inversion," Geophysical Journal International, vol. 235, no. 3, pp. 2828-2845, December 2023. DOI: https://doi.org/10.1093/gji/ggad380
-* Liuwei Xu, Saeed Mohanna, Lingsen Meng, Chen Ji, Jean-Paul Ampuero, Zhang Yunjun, Masooma Hasnain, Risheng Chu, and Cunren Liang, "The overall-subshear and multi-segment rupture of the 2023 Mw 7.8 Kahramanmaraş, Turkey earthquake in millennia supercycle," Communications Earth & Environment, vol. 4, no. 1, pp. 1-13, October 2023. DOI: https://doi.org/10.1038/s43247-023-01030-x
-* Peng Li, Guoyang Wang, Cunren Liang, Houjie Wang, and Zhenhong Li, "InSAR-derived coastal subsidence reveals new inundation scenarios over the Yellow River Delta," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 16, pp. 8431-8441, 2023. DOI: https://doi.org/10.1109/JSTARS.2023.3272782
-* Guoyang Wang, Peng Li, Zhenhong Li, Cunren Liang, and Houjie Wang, "Coastal subsidence detection and characterization caused by brine mining over the Yellow River Delta using time series InSAR and PCA," International Journal of Applied Earth Observation and Geoinformation, vol. 114, pp. 1-17, November 2022. DOI: https://doi.org/10.1016/j.jag.2022.103077
-* Kejie Chen, Jean-Philippe Avouac, Jianghui Geng, Cunren Liang, Zhenguo Zhang, Zhicai Li, and Shengpeng Zhang, "The 2021 Mw 7.4 Madoi Earthquake: An Archetype Bilateral Slip‐Pulse Rupture Arrested at a Splay Fault," Geophysical Research Letters, vol. 49, no. 2, pp. 1-9, January 2022. DOI: https://doi.org/10.1029/2021GL095243
+* Peng Li, Yun Zhang, <span style="color:black; font-weight: 600">Cunren Liang</span>, Houjie Wang, and Zhenhong Li, "[High spatiotemporal resolution river networks mapping on catchment scale using satellite remote sensing imagery and DEM data](https://doi.org/10.1029/2023GL107956)," _Geophysical Research Letters_, vol. 51, no. 6, pp. 1-11, March 2024.
+
+* Emmanuel Caballero, Zacharie Duputel, Cedric Twardzik, Luis Rivera, Emilie Klein, Junle Jiang, <span style="color:black; font-weight: 600">Cunren Liang</span>, Lijun Zhu, Romain Jolivet, Eric Fielding, and Mark Simons, "[Revisiting the 2015 Mw = 8.3 Illapel earthquake: unveiling complex fault slip properties using Bayesian inversion](https://doi.org/10.1093/gji/ggad380)," _Geophysical Journal International_, vol. 235, no. 3, pp. 2828-2845, December 2023.
+
+* Liuwei Xu, Saeed Mohanna, Lingsen Meng, Chen Ji, Jean-Paul Ampuero, Zhang Yunjun, Masooma Hasnain, Risheng Chu, and <span style="color:black; font-weight: 600">Cunren Liang</span>, "[The overall-subshear and multi-segment rupture of the 2023 Mw 7.8 Kahramanmaraş, Turkey earthquake in millennia supercycle](https://doi.org/10.1038/s43247-023-01030-x)," _Communications Earth & Environment_, vol. 4, no. 1, pp. 1-13, October 2023.
+
+* Peng Li, Guoyang Wang, <span style="color:black; font-weight: 600">Cunren Liang</span>, Houjie Wang, and Zhenhong Li, "[InSAR-derived coastal subsidence reveals new inundation scenarios over the Yellow River Delta](https://doi.org/10.1109/JSTARS.2023.3272782)," _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 16, pp. 8431-8441, 2023.
+
+* Guoyang Wang, Peng Li, Zhenhong Li, <span style="color:black; font-weight: 600">Cunren Liang</span>, and Houjie Wang, "[Coastal subsidence detection and characterization caused by brine mining over the Yellow River Delta using time series InSAR and PCA](https://doi.org/10.1016/j.jag.2022.103077)," _International Journal of Applied Earth Observation and Geoinformation_, vol. 114, pp. 1-17, November 2022.
+
+* Kejie Chen, Jean-Philippe Avouac, Jianghui Geng, <span style="color:black; font-weight: 600">Cunren Liang</span>, Zhenguo Zhang, Zhicai Li, and Shengpeng Zhang, "[The 2021 Mw 7.4 Madoi Earthquake: An Archetype Bilateral Slip‐Pulse Rupture Arrested at a Splay Fault](https://doi.org/10.1029/2021GL095243)," _Geophysical Research Letters_, vol. 49, no. 2, pp. 1-9, January 2022.
 
 
 ###### Prior to joining Peking University
