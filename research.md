@@ -50,7 +50,7 @@ The unique capabilities of SAR and InSAR make them widely used in science and en
 
 
 ###### Research Funding and Projects
-* 国家高层次人才计划项目（青年）, PI
+* 国家海外高层次人才计划项目（青年）, PI
 * 国家自然科学基金面上项目 - 复杂困难地区大范围L波段InSAR时序分析技术研究, PI
 * 南方科技大学委托项目, PI
 * ALOS-4 Calibration/Validation and Science Team (CVST) project (2025–2028), PI, Japan Aerospace Exploration Agency (JAXA), Japan
