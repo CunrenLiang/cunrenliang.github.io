@@ -8,29 +8,28 @@ feature_image: "../assets/images/tibet/tibet_s1_a41_210504-210516_4.jpg"
 Publications from My Research Group (* Student Advised, # Corresponding Author)
 
 _Published_
+* <span style="color:blue">Xue Li\*, <span style="font-weight: 600">Cunren Liang</span>\#, Jiafeng Li, and Kejie Chen, "An evaluation of Global Ionosphere Maps for the ionospheric correction of C-band InSAR data," Accepted for publication in _Journal of Geodesy_, vol., pp. 1-23, 2026.</span>
 
-* <span style="color:blue">Xue Li\*, <span style="color:blue; font-weight: 600">Cunren Liang</span>\#, Jiafeng Li, and Kejie Chen, "An evaluation of Global Ionosphere Maps for the ionospheric correction of C-band InSAR data," Accepted for publication in _Journal of Geodesy_, vol., pp. 1-23, 2026.</span>
+* <span style="color:blue">Fan Yang\*, Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Kunyi Chen\*, "[InSAR and closure phase errors due to the along-track ionospheric variations within the synthetic aperture](https://doi.org/10.1109/TGRS.2026.3721702)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-28, 2026.</span>
 
-* Fan Yang\*, Yuhang Wang\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, and Kunyi Chen\*, "[InSAR and closure phase errors due to the along-track ionospheric variations within the synthetic aperture](https://doi.org/10.1109/TGRS.2026.3721702)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-28, 2026.
+* <span style="color:blue">Kunyi Chen\* and <span style="font-weight: 600">Cunren Liang</span>\#, "[Precision of InSAR time series at different wavelengths: Effects of random-motion-induced temporal decorrelation](https://doi.org/10.1109/TGRS.2026.3706530)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-15, 2026.</span>
 
-* Kunyi Chen\* and <span style="color:black; font-weight: 600">Cunren Liang</span>\#, "[Precision of InSAR time series at different wavelengths: Effects of random-motion-induced temporal decorrelation](https://doi.org/10.1109/TGRS.2026.3706530)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-15, 2026.
+* <span style="color:blue">Fan Yang\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "[InSAR phase errors due to range misregistrations](https://doi.org/10.1109/TGRS.2026.3664181),” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-19, 2026.</span>
 
-* Fan Yang\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "[InSAR phase errors due to range misregistrations](https://doi.org/10.1109/TGRS.2026.3664181),” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-19, 2026.
+* <span style="color:blue">Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Ligong Yang, Shangzong Lu, Xue Li\*, and Qiming Zeng, "[Global radio frequency interference in L-band SAR data from ALOS-1 and JERS-1 satellites](https://doi.org/10.1016/j.rse.2025.114955)," _Remote Sensing of Environment_, vol. 330, pp. 1-21, 2025.</span>
 
-* Yuhang Wang\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Ligong Yang, Shangzong Lu, Xue Li\*, and Qiming Zeng, "[Global radio frequency interference in L-band SAR data from ALOS-1 and JERS-1 satellites](https://doi.org/10.1016/j.rse.2025.114955)," _Remote Sensing of Environment_, vol. 330, pp. 1-21, 2025.
-
-* <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Eric J. Fielding, Zhen Liu, Takeshi Motohka, Ryo Natsuaki, and Sang-Ho Yun, "[An analysis of the potentials of L-band SAR satellites for measuring azimuth motion](https://doi.org/10.1016/j.rse.2024.114426)," _Remote Sensing of Environment_, vol. 315, pp. 1-19, 2024.
+* <span style="color:blue"><span style="font-weight: 600">Cunren Liang</span>\#, Eric J. Fielding, Zhen Liu, Takeshi Motohka, Ryo Natsuaki, and Sang-Ho Yun, "[An analysis of the potentials of L-band SAR satellites for measuring azimuth motion](https://doi.org/10.1016/j.rse.2024.114426)," _Remote Sensing of Environment_, vol. 315, pp. 1-19, 2024.</span>
 
 
 _Revised_
-* Yuhang Wang\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Fan Yang\*, and Kunyi Chen\*, "On the range spectral loss in InSAR," Revised, _IEEE Transactions on Geoscience and Remote Sensing_.
+* <span style="color:blue">Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Fan Yang\*, and Kunyi Chen\*, "On the range spectral loss in InSAR," Revised, _IEEE Transactions on Geoscience and Remote Sensing_.</span>
 
 
 _Under Review_
-* Yusheng Li\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "Precision of phase correlation for speckle tracking," Under review.
-* Kunyi Chen\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Xue Li\*, and Yuhang Wang\*, "Secondary InSAR ionospheric phase in NISAR data," Under review.
-* <span style="color:black; font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Yuhang Wang\*, Zhen Liu, Mark Simons, Eric J. Fielding, Yuan-Kai Liu, and Sang-Ho Yun, "Evaluating ALOS-2 L-band InSAR observations of tectonic motion in the Western United States," Under review.
-* Guanshu Ao\*, <span style="color:black; font-weight: 600">Cunren Liang</span>\#, and Yuxiao Qin, "Overestimation of InSAR coherence due to RCS inhomogeneity," Under review.
+* <span style="color:blue">Yusheng Li\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "Precision of phase correlation for speckle tracking," Under review.</span>
+* <span style="color:blue">Kunyi Chen\*, <span style="font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Xue Li\*, and Yuhang Wang\*, "Secondary InSAR ionospheric phase in NISAR data," Under review.</span>
+* <span style="color:blue"><span style="font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Yuhang Wang\*, Zhen Liu, Mark Simons, Eric J. Fielding, Yuan-Kai Liu, and Sang-Ho Yun, "Evaluating ALOS-2 L-band InSAR observations of tectonic motion in the Western United States," Under review.</span>
+* <span style="color:blue">Guanshu Ao\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Yuxiao Qin, "Overestimation of InSAR coherence due to RCS inhomogeneity," Under review.</span>
 
 
 
