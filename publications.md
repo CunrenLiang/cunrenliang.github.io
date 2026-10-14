@@ -8,7 +8,7 @@ feature_image: "../assets/images/tibet/tibet_s1_a41_210504-210516_4.jpg"
 Publications from My Research Group (* Student Advised, # Corresponding Author)
 
 _Published_
-* <span style="color:blue">Xue Li\*, <span style="font-weight: 600">Cunren Liang</span>\#, Jiafeng Li, and Kejie Chen, "An evaluation of Global Ionosphere Maps for the ionospheric correction of C-band InSAR data," Accepted for publication in _Journal of Geodesy_, vol., pp. 1-23, 2026.</span>
+* <span style="color:blue">Xue Li\*, <span style="font-weight: 600">Cunren Liang</span>\#, Jiafeng Li, and Kejie Chen, "[An evaluation of Global Ionosphere Maps for the ionospheric correction of C-band InSAR data](https://doi.org/10.1007/s00190-026-02084-3)," _Journal of Geodesy_, vol.100, pp. 1-23, 2026.</span>
 
 * <span style="color:blue">Fan Yang\*, Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Kunyi Chen\*, "[InSAR and closure phase errors due to the along-track ionospheric variations within the synthetic aperture](https://doi.org/10.1109/TGRS.2026.3721702)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-28, 2026.</span>
 
