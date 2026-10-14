@@ -9,7 +9,7 @@ title: People
 
 Cunren Liang's research interests primarily include Synthetic Aperture Radar (SAR) techniques, microwave scattering mechanisms, and their remote sensing applications. He currently works on the theory and technical development of Synthetic Aperture Radar Interferometry (InSAR), as well as its geodetic and geophysical applications, with a particular focus on L-band as we enter the golden age of L-band satellite SAR missions.
 
-He is currently in the [Calibration/Validation and Science Team (CVST)](https://www.eorc.jaxa.jp/ALOS/en/alos-4/a4_calval_e.htm) for JAXA's L-band SAR mission ALOS-4. Previously, he was involved in the Science Team projects for NASA's dual L/S-band mission NISAR. He was a member of the JPL/Caltech ARIA team and worked on a number of NASA projects. He developed algorithms and software for processing multi-mode SAR data acquired by the L-band ALOS-2/4 satellites. He also developed techniques to correct for InSAR ionospheric effects for data acquired in different modes and at different wavelengths. He contributed a number of modules to the InSAR software package [ISCE](https://github.com/isce-framework/isce2). He received the Best Paper Award for Young Scientist at ESA-NRSCC Symposium (2010 and 2012), NASA Postdoctoral Program Fellowship (2014), NASA Group Achievement Award (2016) and JPL Outstanding Postdoctoral Research Award (2017).
+He is currently in the [Calibration/Validation and Science Team (CVST)](https://www.eorc.jaxa.jp/ALOS/en/alos-4/a4_calval_e.htm) for JAXA's L-band SAR mission ALOS-4. Previously, he was involved in the Science Team projects for NASA's dual L/S-band mission [NISAR](https://science.nasa.gov/mission/nisar/). He was a member of the JPL/Caltech ARIA team and worked on a number of NASA projects. He developed algorithms and software for processing multi-mode SAR data acquired by the L-band ALOS-2/4 satellites. He also developed techniques to correct for InSAR ionospheric effects for data acquired in different modes and at different wavelengths. He contributed a number of modules to the InSAR software package [ISCE](https://github.com/isce-framework/isce2). He received the Best Paper Award for Young Scientist at ESA-NRSCC Symposium (2010 and 2012), NASA Postdoctoral Program Fellowship (2014), NASA Group Achievement Award (2016) and JPL Outstanding Postdoctoral Research Award (2017).
 
 
 ### Current Students
@@ -58,7 +58,7 @@ Master’s student, Southern University of Science and Technology, 2021-2024
 B.S., Wuhan University, 2021
 
 * <span style="color:Gray; font-weight: 800">Zhen Yu</span>  
-Ph.D. Candidate, California Institute of Technology  
+Ph.D. Student, California Institute of Technology  
 B.S., University of California, San Diego, 2020
 
 
