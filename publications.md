@@ -22,7 +22,7 @@ _Published_
 
 
 _Revised_
-* <span style="color:blue">Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Fan Yang\*, and Kunyi Chen\*, "On the range spectral loss in InSAR," Revised, _IEEE Transactions on Geoscience and Remote Sensing_.</span>
+* <span style="color:blue">Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Fan Yang\*, and Kunyi Chen\*, "[On the range spectral loss in InSAR](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/wang_et_al_range_spectral.pdf)," Revised, _IEEE Transactions on Geoscience and Remote Sensing_.</span>
 
 
 _Under Review_
