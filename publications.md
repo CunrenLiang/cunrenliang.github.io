@@ -7,29 +7,27 @@ feature_image: "../assets/images/tibet/tibet_s1_a41_210504-210516_4.jpg"
 
 Publications from My Research Group (* Student Advised, # Corresponding Author)
 
-_Published_
-* <span style="color:blue">Xue Li\*, <span style="font-weight: 600">Cunren Liang</span>\#, Jiafeng Li, and Kejie Chen, "[An evaluation of Global Ionosphere Maps for the ionospheric correction of C-band InSAR data](https://doi.org/10.1007/s00190-026-02084-3)," _Journal of Geodesy_, vol. 100, pp. 1-23, 2026.</span>
+* <span style="color:blue">P1. Kunyi Chen\* and <span style="font-weight: 600">Cunren Liang</span>\#, "[Precision of InSAR time series at different wavelengths: Effects of random-motion-induced temporal decorrelation](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P1_2026_chen_precision.pdf)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-15, 2026.</span>
 
-* <span style="color:blue">Fan Yang\*, Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Kunyi Chen\*, "[InSAR and closure phase errors due to the along-track ionospheric variations within the synthetic aperture](https://doi.org/10.1109/TGRS.2026.3721702)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-28, 2026.</span>
+* <span style="color:blue">P2. Fan Yang\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "[InSAR phase errors due to range misregistrations](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P2_2026_yang_tgrs_insar_phase_errors.pdf),” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-19, 2026.</span>
 
-* <span style="color:blue">Kunyi Chen\* and <span style="font-weight: 600">Cunren Liang</span>\#, "[Precision of InSAR time series at different wavelengths: Effects of random-motion-induced temporal decorrelation](https://doi.org/10.1109/TGRS.2026.3706530)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-15, 2026.</span>
+* <span style="color:blue">P3. Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Ligong Yang, Shangzong Lu, Xue Li\*, and Qiming Zeng, "[Global radio frequency interference in L-band SAR data from ALOS-1 and JERS-1 satellites](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P3_2025_wang_rse_global_radio_frequency.pdf)," _Remote Sensing of Environment_, vol. 330, pp. 1-21, 2025.</span>
 
-* <span style="color:blue">Fan Yang\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "[InSAR phase errors due to range misregistrations](https://doi.org/10.1109/TGRS.2026.3664181),” _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-19, 2026.</span>
+* <span style="color:blue">P4. <span style="font-weight: 600">Cunren Liang</span>\#, Eric J. Fielding, Zhen Liu, Takeshi Motohka, Ryo Natsuaki, and Sang-Ho Yun, "[An analysis of the potentials of L-band SAR satellites for measuring azimuth motion](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P4_2024_liang_rse_an_analysis.pdf)," _Remote Sensing of Environment_, vol. 315, pp. 1-19, 2024.</span>
 
-* <span style="color:blue">Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Ligong Yang, Shangzong Lu, Xue Li\*, and Qiming Zeng, "[Global radio frequency interference in L-band SAR data from ALOS-1 and JERS-1 satellites](https://doi.org/10.1016/j.rse.2025.114955)," _Remote Sensing of Environment_, vol. 330, pp. 1-21, 2025.</span>
+* <span style="color:blue">P5. Fan Yang\*, Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Kunyi Chen\*, "[InSAR and closure phase errors due to the along-track ionospheric variations within the synthetic aperture](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P5_2026_yang_tgrs_insar_and_closure.pdf)," _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-28, 2026.</span>
 
-* <span style="color:blue"><span style="font-weight: 600">Cunren Liang</span>\#, Eric J. Fielding, Zhen Liu, Takeshi Motohka, Ryo Natsuaki, and Sang-Ho Yun, "[An analysis of the potentials of L-band SAR satellites for measuring azimuth motion](https://doi.org/10.1016/j.rse.2024.114426)," _Remote Sensing of Environment_, vol. 315, pp. 1-19, 2024.</span>
+* <span style="color:blue">P6. Xue Li\*, <span style="font-weight: 600">Cunren Liang</span>\#, Jiafeng Li, and Kejie Chen, "[An evaluation of Global Ionosphere Maps for the ionospheric correction of C-band InSAR data](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P6_2026_li_joge_an_evaluation.pdf)," _Journal of Geodesy_, vol. 100, pp. 1-23, 2026.</span>
 
+* <span style="color:blue">P7. Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Fan Yang\*, and Kunyi Chen\*, "[On the range spectral loss in InSAR](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P7_2026_wang_tgrs_range.pdf)," Revised, _IEEE Transactions on Geoscience and Remote Sensing_.</span>
+ 
+* <span style="color:blue">P8. Yusheng Li\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "[Precision of phase correlation for speckle tracking](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P8_2026_li_tgrs_precision.pdf)," Under review.</span>
 
-_Revised_
-* <span style="color:blue">Yuhang Wang\*, <span style="font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Fan Yang\*, and Kunyi Chen\*, "[On the range spectral loss in InSAR](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/wang_et_al_range_spectral.pdf)," Revised, _IEEE Transactions on Geoscience and Remote Sensing_.</span>
+* <span style="color:blue">P9. Kunyi Chen\*, <span style="font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Xue Li\*, and Yuhang Wang\*, "[Secondary InSAR ionospheric phase in NISAR data](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P9_2026_chen_tgrs_secondary.pdf)," Under review.</span>
 
+* <span style="color:blue">P10. <span style="font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Yuhang Wang\*, Zhen Liu, Mark Simons, Eric J. Fielding, Yuan-Kai Liu, and Sang-Ho Yun, "[Evaluating ALOS-2 L-band InSAR observations of tectonic motion in the Western United States](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/P10_2026_liang_ess_evaluating.pdf)," Under review.</span>
 
-_Under Review_
-* <span style="color:blue">Yusheng Li\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Yuhang Wang\*, "[Precision of phase correlation for speckle tracking](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/li_offset_v11_clean.pdf)," Under review.</span>
-* <span style="color:blue">Kunyi Chen\*, <span style="font-weight: 600">Cunren Liang</span>\#, Fan Yang\*, Xue Li\*, and Yuhang Wang\*, "[Secondary InSAR ionospheric phase in NISAR data](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/K.Chen_Secondary_Ionospheric_InSAR_Phase_in_NISAR_data.pdf)," Under review.</span>
-* <span style="color:blue"><span style="font-weight: 600">Cunren Liang</span>\#, Xue Li\*, Yuhang Wang\*, Zhen Liu, Mark Simons, Eric J. Fielding, Yuan-Kai Liu, and Sang-Ho Yun, "[Evaluating ALOS-2 L-band InSAR observations of tectonic motion in the Western United States](https://github.com/CunrenLiang/cunrenliang.github.io/tree/main/assets/papers/liang_2026_ess_v20.pdf)," Under review.</span>
-* <span style="color:blue">Guanshu Ao\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Yuxiao Qin, "Overestimation of InSAR coherence due to RCS inhomogeneity," Under review.</span>
+* <span style="color:blue">P11. Guanshu Ao\*, <span style="font-weight: 600">Cunren Liang</span>\#, and Yuxiao Qin, "Overestimation of InSAR coherence due to RCS inhomogeneity," Under review.</span>
 
 
 
